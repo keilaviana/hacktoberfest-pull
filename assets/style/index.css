@@ -12,7 +12,9 @@ body {
 .container {
   width: 100%;
   height: 100%;
-  background: purple;
+  background-image: 
+  linear-gradient(45deg,
+  #481B5B 0%, #23204B 50%, #152347 100%);
   font-family: "Roboto Condensed", sans-serif;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
