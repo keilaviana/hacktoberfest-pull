@@ -22,3 +22,11 @@ body {
   justify-content: center;
   flex-direction: column;
 }
+
+.header {
+  width: 100%;
+  display: flex;
+  align-content: center;
+  justify-content: center;
+  height: 300px;
+}
