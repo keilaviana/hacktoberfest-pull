@@ -1,1 +1,1 @@
-Meu Nome é Keila, eu tenho 20 anos, estudo engenharia da computação e é isso
+Meu nome é Keila, Faço engenharia eletronica na ufpe. Participar do hacktoberfest for women foi incrível, foi uma dia de muito aprendizado e a sensação era de estar em casa em volta de muitas mulheres que estavam unidas para se ajudar e passar conhecimento. Foi muito massa!
