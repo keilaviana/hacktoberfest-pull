@@ -11,14 +11,21 @@ body {
 .container {
   width: 100%;
   height: 100%;
-  background: #481b5b;
+
+  background-image: linear-gradient(
+    45deg,
+    #481b5b 0%,
+    #23204b 50%,
+    #152347 100%
+  );
+
   font-family: "Space Mono", monospace;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+
   display: flex;
-  align-items: center;
-  justify-content: center;
+  justify-content: space-between;
   flex-direction: column;
 }
 
@@ -98,4 +105,31 @@ body {
   .card__info {
     text-align: left;
   }
+}
+.icons {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+}
+
+.left-icons {
+  display: flex;
+  justify-content: flex-start;
+  margin: 17px;
+}
+.right-icons {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.icone {
+  width: 20%;
+  height: 20%;
+  margin: 0px 15px;
+}
+.icon {
+  width: 50%;
+  height: 50%;
+  margin: 0px 15px;
 }
